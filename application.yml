@@ -1,0 +1,3 @@
+stripe:
+  apiKey: test
+  secretKey: foo
